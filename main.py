@@ -1,6 +1,6 @@
 import os
 
-LINE = "My houseplants have a group chat, and I'm only in it so they can complain about me."
+LINE = "My houseplants have a group chat, and I'm only in it so they can talk about me to my face."
 
 
 def main() -> None:
